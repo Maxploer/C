@@ -1,0 +1,1 @@
+/usr/bin/gcc -g "CMakeFiles/C-labs.dir/main.c.o" -o C-labs 

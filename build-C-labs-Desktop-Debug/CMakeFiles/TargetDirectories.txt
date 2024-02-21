@@ -1,0 +1,3 @@
+/home/marat/BMSTU/build-C-labs-Desktop-Debug/CMakeFiles/C-labs.dir
+/home/marat/BMSTU/build-C-labs-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/marat/BMSTU/build-C-labs-Desktop-Debug/CMakeFiles/rebuild_cache.dir
